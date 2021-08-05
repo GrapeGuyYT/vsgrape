@@ -1,6 +1,6 @@
 VS Grape Mod Thing, made with Kade Engine
 
-# Friday Night Funkin': Kade Engine
+# Friday Night Funkin': VS Grape Mod - Kade Engine
 ## Friday Night Funkin'
 **Friday Night Funkin'** is a rhythm game originally made for Ludum Dare 47 "Stuck In a Loop".
 
